@@ -5,6 +5,6 @@ His Twitter: 斎藤康毅 (@SaitohKoki)
 
 Note: The code in this repository could be shared but not for commercial use.
 
-The file's name was just copyed and pasted, which would be named something like "book_given_function.py".
+The file's name was just copyed and pasted, which would be named something like "book_given_function.py". The rest of code was totally understood and could be explained clearly by myself.
 
 Always remember: Practice makes perfect.
