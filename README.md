@@ -7,6 +7,7 @@ This repository was used to record and review the basic python code about the de
 Note: The code in this repository could be shared but NOT for commercial use.
 
 The code in files named "book_given_function.py" was just copied and paste directly from the book. 
-The rest of code was totally understood and could be explained clearly by myself.
+
+BUT the rest of code was totally understood and could be explained clearly by myself.
 
 # Always remember: Practice makes Perfect.
