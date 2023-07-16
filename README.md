@@ -4,7 +4,7 @@ This repository was used to record and review the basic python code about the de
 
 **His Twitter: 斎藤康毅 (@SaitohKoki)**
 
-Note: The code in this repository could be shared but NOT for commercial use.
+**Note: The code in this repository could be shared but NOT for commercial use.**
 
 The code in files named "book_given_function.py" was copied and paste from the book. BUT the rest of code was totally understood and could be explained clearly by myself.
 
